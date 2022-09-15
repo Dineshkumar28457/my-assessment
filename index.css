@@ -1,0 +1,90 @@
+.Main{
+    /*background-color:black; */
+    color:whitesmoke;
+ 
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.menuname{
+    margin-top:10px;
+    margin-left:120px;
+}
+.BTN{
+    border:none;
+    outline: none;
+}
+li{
+   margin-left:5%;
+   margin-top:13px;
+}
+.details{
+    margin-top:10px; 
+    margin-left:20%;
+}
+.mainpage{
+    background-image:url("https://storage.pixteller.com/designs/designs-images/2019-03-27/04/business-background-backgrounds-business-1-5c9b8f720ae83.png");
+    background-size: cover;
+    height:60vh;
+    width:100%;
+}
+.link{
+    background-color:orangered;
+    color:white;
+}
+.mainheading{
+    margin-left:100px;
+    margin-top:5%;
+    color: #315957;
+}
+h1{
+    font-weight: bold;
+}
+h4{
+    text-align: center;
+   
+    font-weight:bold;
+    color: #315957;
+}
+.name{
+    text-align: center;
+   
+    color: #315957;  
+}
+.menu2{
+    background-color: aquamarine;
+    background-size: cover;
+}
+h3{
+    
+    color:#315957;
+}
+.hf{
+    height: 100vh;
+    background-color:#34c4d1;
+}
+
+.next{
+    margin-left:300px;
+    color:#315957;
+}
+
+i{
+    margin-left:2px;
+}
+.CARD{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left:5%;
+    margin-bottom:7%;
+}
+.hg{
+    height: 30vh;
+}
+.title{
+    margin-bottom:10px;
+}
